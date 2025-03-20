@@ -1,7 +1,7 @@
 
-# Shorts Auto Next
+# YouTube Shorts Auto Next
 
-A chrome extension to automatically advance to the next Short by checking the playback time.
+A chrome extension to automatically advance to the next YouTube Short by checking the playback time.
 
 
 ## Features

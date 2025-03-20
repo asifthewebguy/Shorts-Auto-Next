@@ -1,0 +1,21 @@
+{
+    "name": "YouTube Shorts Auto Next",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "description": "Automatically advance to the next Short when the current one ends or is nearly finished.",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.youtube.com/shorts/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_idle"
+        }
+    ]
+}

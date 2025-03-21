@@ -1,8 +1,8 @@
 {
     "name": "YouTube Shorts Auto Next",
-    "version": "0.0.1",
+    "version": "1.4",
     "manifest_version": 3,
-    "description": "Automatically advance to the next Short when the current one ends or is nearly finished.",
+    "description": "Tracks how many times you've advanced to the next Short, sums durations, and toggles auto-advance on YouTube Shorts (with improved styling/tooltip).",
     "permissions": [
         "activeTab",
         "scripting"

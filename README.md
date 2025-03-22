@@ -2,6 +2,10 @@
 
 A Chrome extension that automatically advances to the next YouTube Short after the current one ends (or is nearly finished). It also provides a pause/resume toggle button in the element with id="center", displays a counter of how many times you've advanced, and keeps a running total of how much time you’ve spent on Shorts. Hover on the counter to see a tooltip conveying how many minutes or hours you’ve “lost from your life.”
 
+## Current Version
+
+v0.1.0
+
 ## Features
 
 1. Automatically navigates to the next Short when the current one is almost done.  

@@ -64,3 +64,9 @@ You’re free to use, modify, and distribute this extension as long as you inclu
 
 ## Author
 [@asifthewebguy](https://www.github.com/asifthewebguy)
+
+
+## Issues / Bugs
+
+- [ ] The extension doesn’t work on the first Short when navigating to a YouTube Shorts page.
+- [ ] The extension still shows the ui elements on non-Shorts pages after navigating away from a Short.
